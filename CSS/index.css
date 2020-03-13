@@ -1,0 +1,185 @@
+.headerContainer{
+        height: 120px;
+        width: 100%;
+        background-color: #FFB612;
+        border-radius: 0 0 25px 25px;
+        display: flex;
+        justify-content: center;
+        position: fixed;
+        top: 0;
+        width: 100%
+}
+
+.logo{
+    display: block;
+    width: 156px;
+    height: 80px;
+    margin-top: 75px;
+}
+
+.inspirationalDiv{
+    height: 550px;
+    width: 100%;
+    box-shadow: 5px 10px 18px #888888;
+    margin-bottom: 50px;
+    margin-top: 120px;
+}
+
+.downloadApp{
+    display: inline-block;
+    margin-left: 180px;
+    margin-top: 150px;
+}
+
+.appStore{
+    display: block;
+    margin: auto;
+}
+
+.phoneImg{
+    display: inline;
+}
+
+.tastyPhone{
+    height: 450px;
+    float: right;
+    margin-right: 230px;
+    margin-top: 40px;
+}
+
+.downloadTxt{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+.StepbyStep{
+    height: 550px;
+    width: 100%;
+    box-shadow: 5px 10px 18px #888888;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+.StepImg{
+    height: 450px;
+    width: 700px;
+    margin-top: 50px;
+}
+
+.Features{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    margin-top: 140px;
+}
+.HeadingFeat{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.Paragraph{
+    width: 300px;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 15px;
+}
+
+.Paragraph p {
+    display: inline;
+}
+.ViewButton{
+    border-radius: 20px;
+    border: #3C4A6C solid 2px;
+    height: 40px;
+    width: 170px;
+    transition: 0.5s;
+}
+
+.ViewButton:hover{
+    background-color: rgb(35, 47, 75);
+    color: white;
+}
+.Circle{
+    border-radius: 50%;
+    background-color: #FFB612;
+    width: 25px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+}
+
+.p{
+    display: inline;
+}
+
+.Walmart{
+    height: 800px;
+    width: 100%;
+    box-shadow: 10px 0px 0px 0px  #888888;
+}
+
+.WalmartText{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    width: 700px;
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.Benefits{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.Card{
+    box-shadow: 5px 10px 18px #888888;
+    height: 400px;
+    width: 470px;
+    margin-top: 45px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 23px;
+    padding-top: 90px;
+
+}
+
+.walmartLogo{
+    flex-basis: 100%;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.walmartImg{
+    width: 250px;
+}
+
+.ViewButton2{
+    border-radius: 20px;
+    border: #3C4A6C solid 2px;
+    height: 40px;
+    width: 170px;
+    transition: 0.5s;
+    display: block;
+    margin: auto;
+}
+
+.ViewButton2:hover{
+    background-color: rgb(35, 47, 75);
+    color: white;
+}
+
+.footer{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.footerBtns{
+    width: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
